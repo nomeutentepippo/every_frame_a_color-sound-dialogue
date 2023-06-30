@@ -2,3 +2,5 @@
 
 Every frame a color-sound-dialogue: I sampled one frame every second and extracted the dominant color. 
 The internal graph represents the rolling averaged volume and the dialogues have been arranged radially in correspondence with the playing time.
+
+![Dataframe Header](output/Mad_Max_Fury_Road_260dpi.png)
